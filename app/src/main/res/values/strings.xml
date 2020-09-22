@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memeing</string>
+    <string name="share">SHARE</string>
+    <string name="next">NEXT</string>
+    <string name="activity_name">Memeing</string>
+    <string name="todo">TODO</string>
+</resources>
